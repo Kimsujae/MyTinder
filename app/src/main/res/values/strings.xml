@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">my Tinder</string>
-
-    <string name="facebook_app_id">476492300731573</string>
-    <string name="fb_login_protocol_scheme">fb476492300731573</string>
-    <string name="facebook_client_token">00ffa3fa3a8c2f0ab2f25bc0fa784754</string>
-    <string name="write_name">"이름을 입력해주세요"</string>
-    <string name="save">"저장"</string>
-</resources>
